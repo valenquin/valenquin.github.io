@@ -1,3 +1,11 @@
 p{
 color:blue;
 }
+
+body{
+  align-items: center;
+}
+
+ol{
+  align-content: space-between;
+}
