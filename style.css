@@ -4,3 +4,6 @@ color:blue;
 body{
 text-align: center;
 }
+.list{
+  list-style-position:inside;
+}
